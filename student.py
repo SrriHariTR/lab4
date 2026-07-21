@@ -1,2 +1,6 @@
-print("student")
-print("Critical bug fixed")
+print("Student Module")
+
+def register_student(name):
+    print(f"{name} registered successfully")
+
+print("Work in progress...")
