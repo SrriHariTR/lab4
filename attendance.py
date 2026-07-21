@@ -1,1 +1,4 @@
-print("attendance")
+print("Attendance Module")
+
+def mark_attendance(student, status):
+    print(f"{student}: {status}")
