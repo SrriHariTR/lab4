@@ -1,0 +1,11 @@
+# Build output
+build/
+
+# Logs
+logs/
+
+# Temporary files
+temp/
+
+# Environment variables
+.env
